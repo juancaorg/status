@@ -15,7 +15,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://www.juanca.org/content/images/2022/02/circle-icon.png 
   name: Status | juanca.org
-  introTitle: "Welcome to the service status site for **juanca.org!**"
+  introTitle: "Welcome to the service status site of **juanca.org!**"
   introMessage: Below you'll find the live status of all services related to juanca.org.
   navbar:
     - title: juanca.org
