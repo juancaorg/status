@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: www.juancastatus.org
   # baseUrl: /your-repo-name
-  logoUrl: https://www.juanca.org/content/images/2022/02/circle-icon.png 
+  logoUrl: https://www.juanca.org/content/images/2022/03/juanca-org-icon.png
   name: Status | juanca.org
   introTitle: "Welcome to the service status site of **juanca.org!**"
   introMessage: Below you'll find the live status of all services related to juanca.org.
