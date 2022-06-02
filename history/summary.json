@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
-    "time": 530,
-    "timeDay": 580,
-    "timeWeek": 453,
-    "timeMonth": 514,
-    "timeYear": 530,
+    "time": 535,
+    "timeDay": 836,
+    "timeWeek": 533,
+    "timeMonth": 532,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2022-04-29": 28,
       "2022-04-15": 38,
@@ -29,29 +29,6 @@
       "2022-03-07": 20,
       "2022-03-06": 20,
       "2022-03-05": 15
-    }
-  },
-  {
-    "name": "changelog.juanca.org",
-    "url": "https://changelog.juanca.org",
-    "icon": "https://favicons.githubusercontent.com/changelog.juanca.org",
-    "slug": "changelog-juanca-org",
-    "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.26%",
-    "time": 655,
-    "timeDay": 387,
-    "timeWeek": 717,
-    "timeMonth": 778,
-    "timeYear": 655,
-    "dailyMinutesDown": {
-      "2022-04-27": 41,
-      "2022-03-21": 23,
-      "2022-03-16": 850,
-      "2022-03-10": 25
     }
   }
 ]
