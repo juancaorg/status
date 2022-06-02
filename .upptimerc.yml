@@ -5,8 +5,6 @@ repo: status # The name of this repository
 sites:
   - name: juanca.org
     url: https://www.juanca.org
-  - name: changelog.juanca.org
-    url: https://changelog.juanca.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
